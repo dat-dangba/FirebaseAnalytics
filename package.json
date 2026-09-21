@@ -1,0 +1,9 @@
+{
+  "name": "com.ddb.firebase.analytics",
+  "displayName": "ddb - Firebase Analytics",
+  "description": "Firebase Analytics",
+  "author": "datdb - Third Party SDKs",
+  "version": "13.10.0",
+  "dependencies": {
+  }
+}
