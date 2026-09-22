@@ -1,7 +1,11 @@
 fileFormatVersion: 2
-guid: 2c26a6326aec440f98c346a9464c6d34
-TextScriptImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+guid: 1e3c2da79be842cd838a9ddd70d20fa9
+labels:
+- gvh
+- gvh_version-13.17.0
+- gvhp_exportpath-Firebase/Editor/AnalyticsDependencies.xml
+timeCreated: 1480838400
+DefaultImporter:
+  userData:
+  assetBundleName:
+  assetBundleVariant:
