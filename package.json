@@ -3,7 +3,7 @@
   "displayName": "ddb - Firebase Analytics",
   "description": "Firebase Analytics",
   "author": "datdb - Third Party SDKs",
-  "version": "13.10.0",
+  "version": "13.17.0",
   "dependencies": {
   }
 }
